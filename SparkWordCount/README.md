@@ -10,4 +10,5 @@
  - Download WordCount.json
  - Import note in Zeppelin
  # How it should look:
+![image](https://github.com/HronoSF/DSML_2018_19/blob/master/SparkWordCount/resources/1.png)
 
